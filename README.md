@@ -2,12 +2,12 @@
  Get the acurate body mass index
 
 #installation
-`npm i bmi-calc --save`
+`npm i calc-bmi --save`
 
 ```
-import { bmi-calc } from 'bmi-calc'
+import { bmi } from 'calc-bmi'
 
-var bmi = require('bmi-calc');
+var bmi = require('calc-bmi');
 
 // 1.8Meter Height, 75KG Weight
 console.log(bmi.bmi(1.8, 75));
