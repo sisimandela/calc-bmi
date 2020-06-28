@@ -1,0 +1,22 @@
+{
+  "name": "bmi-calc",
+  "version": "1.0.0",
+  "description": "calculates body mass index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisimandela/bmi-calc.git"
+  },
+  "keywords": [
+    "bmi"
+  ],
+  "author": "Sisay Mandefro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sisimandela/bmi-calc/issues"
+  },
+  "homepage": "https://github.com/sisimandela/bmi-calc#readme"
+}
